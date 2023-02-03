@@ -1,0 +1,21 @@
+_id: req_wrk_f0305005d9d645ef81ddcb6b0bba79aa01464e16
+type: Request
+parentId: fld_wrk_f0305005d9d645ef81ddcb6b0bba79aa799a010a
+modified: 1675416969727
+created: 1675389608437
+url: "{{ base_url }}/delay/{{delay}}"
+name: Returns a delayed response (max of 10 seconds).
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1675389608437
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
